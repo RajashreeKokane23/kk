@@ -21,5 +21,6 @@ public class Test {
 		//step 6:Close the resources
 		smt.close();
 		con.close();
+		System.out.println("This is jdbc");
 	}
 }
